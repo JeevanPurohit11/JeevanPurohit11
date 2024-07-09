@@ -1,6 +1,6 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif)](https://JeevanPurohit11)
 <h1 align="center">Hi 👋, I'm Jeevan Rajpurohit</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
+[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif)](https://JeevanPurohit11)
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 
