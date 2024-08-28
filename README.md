@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevanpurohit11&show_icons=true&locale=en&layout=compact" alt="jeevanpurohit11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevanpurohit11&show_icons=true&locale=en" alt="jeevanpurohit11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanpurohit11&" alt="jeevanpurohit11" /></p>
