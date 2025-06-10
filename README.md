@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 
-- 🌱 I’m currently learning **JavaScript,MERN**
+- 🌱 I’m currently learning **Springboot, SpringFramework**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++, Java , JavaScript**
 
-- 📫 How to reach me **jivanpurohit1106@gmail.com**
+- 📫 How to reach me **jeevanpurohit11@gmail.com**
 
 - ⚡ Fun fact **🚀 Fun trivia**
 
